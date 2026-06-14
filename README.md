@@ -67,6 +67,3 @@ Project: `www.zetaorigin.com`
 Follow: `https://www.facebook.com/ZetaCoreAI`
 
 
-<p align="center">
-  <img src="docs/images/html-report-summary.png" alt="Waibon Dev Shield HTML Report" width="900">
-</p>

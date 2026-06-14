@@ -67,3 +67,68 @@ Project: `www.zetaorigin.com`
 Follow: `https://www.facebook.com/ZetaCoreAI`
 
 
+
+## Screenshots
+
+Screenshots from Waibon Dev Shield.
+
+<p align="center">
+  <img src="docs/images/messageImage_1781431839243_0.jpg" alt="messageImage_1781431839243_0.jpg" width="900">
+  <br>
+  <sub>messageImage_1781431839243_0.jpg</sub>
+</p>
+
+<p align="center">
+  <img src="docs/images/messageImage_1781431904619_0.jpg" alt="messageImage_1781431904619_0.jpg" width="900">
+  <br>
+  <sub>messageImage_1781431904619_0.jpg</sub>
+</p>
+
+<p align="center">
+  <img src="docs/images/messageImage_1781431995997_0.jpg" alt="messageImage_1781431995997_0.jpg" width="900">
+  <br>
+  <sub>messageImage_1781431995997_0.jpg</sub>
+</p>
+
+<p align="center">
+  <img src="docs/images/messageImage_1781432013350_0.jpg" alt="messageImage_1781432013350_0.jpg" width="900">
+  <br>
+  <sub>messageImage_1781432013350_0.jpg</sub>
+</p>
+
+<p align="center">
+  <img src="docs/images/messageImage_1781432071306_0.jpg" alt="messageImage_1781432071306_0.jpg" width="900">
+  <br>
+  <sub>messageImage_1781432071306_0.jpg</sub>
+</p>
+
+<p align="center">
+  <img src="docs/images/messageImage_1781432202733_0.jpg" alt="messageImage_1781432202733_0.jpg" width="900">
+  <br>
+  <sub>messageImage_1781432202733_0.jpg</sub>
+</p>
+
+<p align="center">
+  <img src="docs/images/messageImage_1781432276710_0.jpg" alt="messageImage_1781432276710_0.jpg" width="900">
+  <br>
+  <sub>messageImage_1781432276710_0.jpg</sub>
+</p>
+
+<p align="center">
+  <img src="docs/images/messageImage_1781432312104_0.jpg" alt="messageImage_1781432312104_0.jpg" width="900">
+  <br>
+  <sub>messageImage_1781432312104_0.jpg</sub>
+</p>
+
+<p align="center">
+  <img src="docs/images/messageImage_1781432347122_0.jpg" alt="messageImage_1781432347122_0.jpg" width="900">
+  <br>
+  <sub>messageImage_1781432347122_0.jpg</sub>
+</p>
+
+<p align="center">
+  <img src="docs/images/messageImage_1781432384704_0.jpg" alt="messageImage_1781432384704_0.jpg" width="900">
+  <br>
+  <sub>messageImage_1781432384704_0.jpg</sub>
+</p>
+

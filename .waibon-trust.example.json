@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.6.0",
+  "notes": "Example only. Copy to the target repository root as .waibon-trust.json after human review.",
+  "trusted_files": [
+    "docs/",
+    "examples/",
+    "tests/fixtures/"
+  ],
+  "trusted_rules": [
+  ],
+  "trusted_pairs": [
+    {
+      "file": ".pre-commit-config.yaml",
+      "rule_id": "CLOUD_SECRET_PATTERN",
+      "reason": "This file contains detector rules, not a real key. Review before trusting."
+    }
+  ],
+  "trusted_fingerprints": [
+  ]
+}

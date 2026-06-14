@@ -1,0 +1,1 @@
+Sample report will be generated in the reports folder after a scan.

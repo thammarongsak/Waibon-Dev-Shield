@@ -1,0 +1,12 @@
+WAIBON DEV SHIELD v0.6.0
+=========================
+
+Please extract this ZIP before running any launcher.
+
+Correct use:
+1. Right-click the ZIP file.
+2. Choose Extract All...
+3. Open the extracted Waibon-Dev-Shield-v0.6.0 folder.
+4. Run START-WaibonDevShield.cmd or START-WaibonPreOpenGuard.cmd.
+
+Do not run the CMD files directly from inside the ZIP.

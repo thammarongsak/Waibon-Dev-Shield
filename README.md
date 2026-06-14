@@ -1,4 +1,4 @@
-# Waibon Dev Shield v0.6.0
+﻿# Waibon Dev Shield v0.6.0
 
 **Evidence Fusion & Intent-Aware Dev Safety Scanner**
 
@@ -36,8 +36,8 @@ A text match alone is not a verdict. Risk levels are based on combined evidence,
 
 ## Launchers
 
-- `START-WaibonDevShield.cmd` — scan and report.
-- `START-WaibonPreOpenGuard.cmd` — scan before opening VS Code, Cursor, or Codex.
+- `START-WaibonDevShield.cmd` โ€” scan and report.
+- `START-WaibonPreOpenGuard.cmd` โ€” scan before opening VS Code, Cursor, or Codex.
 
 ## Scan profiles
 
@@ -67,22 +67,9 @@ Project: `www.zetaorigin.com`
 Follow: `https://www.facebook.com/ZetaCoreAI`
 
 
-
 ## Screenshots
 
 Screenshots from Waibon Dev Shield.
-
-<p align="center">
-  <img src="docs/images/messageImage_1781431839243_0.jpg" alt="messageImage_1781431839243_0.jpg" width="900">
-  <br>
-  <sub>messageImage_1781431839243_0.jpg</sub>
-</p>
-
-<p align="center">
-  <img src="docs/images/messageImage_1781431904619_0.jpg" alt="messageImage_1781431904619_0.jpg" width="900">
-  <br>
-  <sub>messageImage_1781431904619_0.jpg</sub>
-</p>
 
 <p align="center">
   <img src="docs/images/messageImage_1781431995997_0.jpg" alt="messageImage_1781431995997_0.jpg" width="900">
